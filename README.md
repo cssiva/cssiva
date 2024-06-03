@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssiva&" alt="cssiva" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cssiva&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://githubcontributorstats.vercel.app/apiusername=cssiva&limit=5&theme=flat&combine_all_yearly_contributions=true)
