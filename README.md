@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cssiva&label=Profile%20views&color=0e75b6&style=flat" alt="cssiva" /> </p>
 
-- 🔭 I’m currently working on DevSecOps 
+#- 🔭 I’m currently working on DevSecOps 
 
-- 🌱 I’m currently learning **DevSecOps & Gen AI **
+- 🌱 I’m currently learning **AWS ML & Gen AI **
 
 - 👨‍💻 All of my projects are available at [https://github.com/cssiva](https://github.com/cssiva)
 
