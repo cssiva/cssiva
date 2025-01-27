@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cssiva](https://github.com/cssiva)
 
-- - 💬 Ask me about **DevOps & Cloud DevOps**
+- - 💬 Life is a Context! Choose your context
 
 - 📫 How to reach me **crishna3690@gmail.com**
 
