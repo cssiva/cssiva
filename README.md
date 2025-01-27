@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on DevSecOps 
 
-- 🌱 I’m currently learning & exploring **AWS ML & Gen AI **
+- 🌱 I’m currently learning & exploring AWS ML & Gen AI 
 
 - 👨‍💻 All of my projects are available at [https://github.com/cssiva](https://github.com/cssiva)
 
