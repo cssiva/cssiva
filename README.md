@@ -1,12 +1,11 @@
 <h1 align="center">Hello Everyone 👋 I'm Siva Krishna </h1>
-<h3 align="center">A passionate DevOps Engineer/AWS ML Gen AI  From India. 🌐 Architecting the Future of Cloud and DevOps with Precision, Automation, and Innovative Solutions 🚀</h3>
+<h3 align="center">A passionate DevOps Engineer/Azure ML Gen AI Egineer  From India. 🌐 Architecting the Future of Cloud and DevOps with Precision, Automation, and Innovative Solutions 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cssiva&label=Profile%20views&color=0e75b6&style=flat" alt="cssiva" /> </p>
 
-- 🔭 I’m currently working on DevSecOps 
 
-- 🌱 I’m currently learning & exploring AWS ML & Gen AI 
+- 🌱 I’m currently learning & exploring  ML & Gen AI 
 
 - 👨‍💻 All of my projects are available at [https://github.com/cssiva](https://github.com/cssiva)
 
